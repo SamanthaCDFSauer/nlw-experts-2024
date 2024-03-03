@@ -1,4 +1,10 @@
-# nlw-experts-2024
+# Acesse o quiz através do link abaixo/ Access the quiz using the link below:
+
+```
+https://samanthacdfsauer.github.io/nlw-experts-2024/
+```
+
+nlw-experts-2024
 Evento - Criação de quiz utilizando HTML/CSS/JAVASCRIPT
 
 ```javascript
